@@ -1,35 +1,17 @@
-# 🌍 Smart Travel Planner App
+# smart_travel_planner
 
-A Flutter-based Smart Travel Planner application that helps users plan trips, select destinations, view weather, and manage travel members efficiently.
+A new Flutter project.
 
----
+## Getting Started
 
-## 🚀 Features
+This project is a starting point for a Flutter application.
 
-- 🔐 User Authentication (Firebase)
-- 📍 City search using GeoDB API
-- 🗺️ View destination on Map
-- 🌤️ Live Weather updates using OpenWeather API
-- 🧑‍🤝‍🧑 Add trip members (email-based)
-- 📅 Trip planning (start & end dates)
-- 🔎 Search trips
-- ☁️ Real-time data using Firebase Firestore
-- 🗑️ Delete trips
+A few resources to get you started if this is your first Flutter project:
 
----
+- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
+- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
 
-## 🛠️ Tech Stack
-
-- Flutter (Dart)
-- Firebase Authentication
-- Cloud Firestore
-- OpenWeather API
-- GeoDB Cities API (RapidAPI)
-- HTTP package
-
----
-
-## 📦 Installation
-
-```bash
-flutter pub get
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
